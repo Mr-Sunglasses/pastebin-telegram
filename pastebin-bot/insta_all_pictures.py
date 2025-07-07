@@ -17,7 +17,6 @@ def login(profile):
 
 
 def fetch_posts(user):
-
     login(profile_instance)
 
     try:
